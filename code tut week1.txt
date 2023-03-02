@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title> Awesomeness!! </title>
+    </head>
+    <body>
+        <h1>
+            Welcome the world of awesomeness!!
+        </h1>
+        <p>
+            I am your tour guide and mentor leading you to an awseome journey!!
+        </p>
+    </body>
+</html>
